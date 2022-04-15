@@ -1,13 +1,11 @@
 # flowers-app-assignment
 dependencies
 ```
-    node v14.17.3 >
-```
+node v14.17.3 >
 @vue/cli 4.5.13
-```
 @dafcoe/vue-collapsible-panel"v.0.2.0",
-```
 vue-numerals": v.4.0.6
+```
 
 ## Project setup
 ```
