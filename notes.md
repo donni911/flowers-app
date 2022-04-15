@@ -42,3 +42,7 @@ also I create css-variable for colors, in this way it will be easy to change it 
 #### Question to designer
 1)what will be next colors for cards, if it be not 3 , but 5,for example?
 2)at breakpoint 360, if we have a long word of flower, flower cover the title ,is it ok?  how it should be? beacuse in design only short words.maybe we should reduce the font for title?
+
+#### What i do to improve this app?
+Maybe add button that show all flowers.
+Try to write own collapse.
